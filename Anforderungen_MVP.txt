@@ -1,0 +1,17 @@
+-> Spatial Understanding 
+	-> Wo sind die Wände? 
+
+-> Spatial Mapping 
+	-> Wann mappe ich etwas auf diese?
+
+-> Vuforia (für Objekterkennung)
+	-> Welche Objekte haben wir vor uns liegen? 
+	-> Was passiert, wenn Objekte verschoben/umgeworfen etc. werden? (ANIMATION)
+
+-> 3D-Sound (siehe Vorlesung)
+	-> Geschichtlicher Hintergrund
+	-> Gespräch der Künstler (?)
+
+-> reelle Objekte + passende Texture/Layer
+	-> produziert werden (z.B. alltäglicher Farbtopf) 
+	-> Layer hierzu erstellen
